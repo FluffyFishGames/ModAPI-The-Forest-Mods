@@ -1,0 +1,32 @@
+<Mod ID="CheatMenu">
+  <Compatible>0.18b</Compatible>
+  <Button Standard="G" ID="OpenMenu">
+    <Name>
+      <EN>Open cheat menu</EN>
+      <DE>Cheatmenü öffnen</DE>
+    </Name>
+    <Description>
+      <EN>Key to open the cheat menu which makes it possible to change the activation state of god mode, fly mode and so on.</EN>
+      <DE>Die Taste mit der das Cheatmenü geöffnet wird.</DE>
+    </Description>
+  </Button>
+  <Button Standard="F" ID="InstantBuild">
+    <Name>
+      <EN>Instant built</EN>
+      <DE>Sofortbau</DE>
+    </Name>
+    <Description>
+      <EN>Press this key to instant build a blueprint.</EN>
+      <DE>Betätige diese Taste um ein Gebäude sofort abzuschließen.</DE>
+    </Description>
+  </Button>
+  <Name>
+    <EN>Cheatmenu</EN>
+    <DE>Cheatmenü</DE>
+  </Name>
+  <Description>
+    <EN>This mod grants you superpowers and some other nice features like instant build or instant tree cutting.</EN>
+    <DE>Dieser Mod verleiht dir Superkräfte und einige weitere nützliche Möglichkeiten wie Sofortbau oder schnelles Bäume fällen.</DE>
+  </Description>
+  <Version>0.1.0.10</Version>
+</Mod>
