@@ -10,7 +10,7 @@ namespace SaveEverywhere
         [ModAPI.Attributes.ExecuteEveryFrame(true)]
         public static void CheckSave()
         { 
-            if (ModAPI.Input.GetButton("Save"))
+            if (ModAPI.Input.GetButtonDown("Save"))
             {
                 TheForest.Utils.LocalPlayer.Stats.JustSave();
             }

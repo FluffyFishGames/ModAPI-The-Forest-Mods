@@ -1,6 +1,6 @@
 <Mod ID="CheatMenu">
-  <Compatible>0.18b</Compatible>
-  <Button Standard="G" ID="OpenMenu">
+  <Compatible>0.26d</Compatible>
+  <Button Standard="F1" ID="OpenMenu">
     <Name>
       <EN>Open cheat menu</EN>
       <DE>Cheatmenü öffnen</DE>
@@ -20,6 +20,16 @@
       <DE>Betätige diese Taste um ein Gebäude sofort abzuschließen.</DE>
     </Description>
   </Button>
+  <Button Standard="X" ID="MassTree">
+    <Name>
+      <EN>Mass cut trees</EN>
+      <DE>Massen Baumfällen</DE>
+    </Name>
+    <Description>
+      <EN>When pressed shows a radius of trees which will be cut when the key is released.</EN>
+      <DE>Wenn gedrückt, zeigt einen Radius an, indem Bäume gefällt werden. Wenn losgelassen, werden diese Bäume gefällt.</DE>
+    </Description>
+  </Button>
   <Name>
     <EN>Cheatmenu</EN>
     <DE>Cheatmenü</DE>
@@ -28,5 +38,5 @@
     <EN>This mod grants you superpowers and some other nice features like instant build or instant tree cutting.</EN>
     <DE>Dieser Mod verleiht dir Superkräfte und einige weitere nützliche Möglichkeiten wie Sofortbau oder schnelles Bäume fällen.</DE>
   </Description>
-  <Version>0.1.0.10</Version>
+  <Version>0.1.2.21</Version>
 </Mod>

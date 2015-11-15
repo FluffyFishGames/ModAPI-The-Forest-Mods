@@ -1,0 +1,5 @@
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\RemoveBuildings\Mod\RemoveBuildings.dll
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\RemoveBuildings\Mod\RemoveBuildings.pdb
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\RemoveBuildings\obj\x86\Release\RemoveBuildings.csprojResolveAssemblyReference.cache
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\RemoveBuildings\obj\x86\Release\RemoveBuildings.dll
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\RemoveBuildings\obj\x86\Release\RemoveBuildings.pdb

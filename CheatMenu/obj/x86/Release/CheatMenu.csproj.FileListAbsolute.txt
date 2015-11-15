@@ -1,0 +1,15 @@
+H:\Users\hamsterphimo\Documents\ModAPI\ModAPI\ModAPI\bin\Debug\projects\TheForest\CheatMenu\obj\x86\Release\CheatMenu.csprojResolveAssemblyReference.cache
+H:\Users\hamsterphimo\Documents\ModAPI\ModAPI\ModAPI\bin\Debug\projects\TheForest\CheatMenu\Mod\CheatMenu.dll
+H:\Users\hamsterphimo\Documents\ModAPI\ModAPI\ModAPI\bin\Debug\projects\TheForest\CheatMenu\Mod\CheatMenu.pdb
+H:\Users\hamsterphimo\Documents\ModAPI\ModAPI\ModAPI\bin\Debug\projects\TheForest\CheatMenu\obj\x86\Release\CheatMenu.dll
+H:\Users\hamsterphimo\Documents\ModAPI\ModAPI\ModAPI\bin\Debug\projects\TheForest\CheatMenu\obj\x86\Release\CheatMenu.pdb
+E:\ModAPI\projects\TheForest\CheatMenu\obj\x86\Release\CheatMenu.csprojResolveAssemblyReference.cache
+E:\ModAPI\projects\TheForest\CheatMenu\obj\x86\Release\CheatMenu.dll
+E:\ModAPI\projects\TheForest\CheatMenu\obj\x86\Release\CheatMenu.pdb
+E:\ModAPI\projects\TheForest\CheatMenu\Mod\CheatMenu.dll
+E:\ModAPI\projects\TheForest\CheatMenu\Mod\CheatMenu.pdb
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\CheatMenu\Mod\CheatMenu.dll
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\CheatMenu\Mod\CheatMenu.pdb
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\CheatMenu\obj\x86\Release\CheatMenu.csprojResolveAssemblyReference.cache
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\CheatMenu\obj\x86\Release\CheatMenu.dll
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\CheatMenu\obj\x86\Release\CheatMenu.pdb

@@ -1,0 +1,10 @@
+H:\Users\hamsterphimo\Documents\ModAPI\ModAPI\ModAPI\bin\Debug\projects\TheForest\SaveEverywhere\Mod\SaveEverywhere.dll
+H:\Users\hamsterphimo\Documents\ModAPI\ModAPI\ModAPI\bin\Debug\projects\TheForest\SaveEverywhere\Mod\SaveEverywhere.pdb
+H:\Users\hamsterphimo\Documents\ModAPI\ModAPI\ModAPI\bin\Debug\projects\TheForest\SaveEverywhere\obj\x86\Release\SaveEverywhere.csprojResolveAssemblyReference.cache
+H:\Users\hamsterphimo\Documents\ModAPI\ModAPI\ModAPI\bin\Debug\projects\TheForest\SaveEverywhere\obj\x86\Release\SaveEverywhere.dll
+H:\Users\hamsterphimo\Documents\ModAPI\ModAPI\ModAPI\bin\Debug\projects\TheForest\SaveEverywhere\obj\x86\Release\SaveEverywhere.pdb
+E:\ModAPI\projects\TheForest\SaveEverywhere\Mod\SaveEverywhere.dll
+E:\ModAPI\projects\TheForest\SaveEverywhere\Mod\SaveEverywhere.pdb
+E:\ModAPI\projects\TheForest\SaveEverywhere\obj\x86\Release\SaveEverywhere.csprojResolveAssemblyReference.cache
+E:\ModAPI\projects\TheForest\SaveEverywhere\obj\x86\Release\SaveEverywhere.dll
+E:\ModAPI\projects\TheForest\SaveEverywhere\obj\x86\Release\SaveEverywhere.pdb

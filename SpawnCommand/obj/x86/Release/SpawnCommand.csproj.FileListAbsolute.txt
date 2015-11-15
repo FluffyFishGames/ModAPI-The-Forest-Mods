@@ -1,0 +1,5 @@
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\SpawnCommand\Mod\SpawnCommand.dll
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\SpawnCommand\Mod\SpawnCommand.pdb
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\SpawnCommand\obj\x86\Release\SpawnCommand.dll
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\SpawnCommand\obj\x86\Release\SpawnCommand.pdb
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\SpawnCommand\obj\x86\Release\SpawnCommand.csprojResolveAssemblyReference.cache

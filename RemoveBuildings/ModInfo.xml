@@ -1,22 +1,22 @@
 <Mod ID="RemoveBuildings">
-  <Compatible>0.18b</Compatible>
+  <Compatible>0.26d</Compatible>
   <Button Standard="T" ID="RemoveBuilding">
     <Name>
-      <EN>Destroy building</EN>
-      <DE>Gebäude zerstören</DE>
+      <DE>Gebäude löschen</DE>
+      <EN>Remove building</EN>
     </Name>
     <Description>
-      <EN>Press this key while looking at a building to destroy it.</EN>
-      <DE>Drücke diese Taste während du ein Gebäude ansiehst um es zu zerstören.</DE>
+      <DE></DE>
+      <EN></EN>
     </Description>
   </Button>
   <Name>
-    <EN>Remove buildings</EN>
     <DE>Gebäude löschen</DE>
+    <EN>Remove buildings</EN>
   </Name>
   <Description>
-    <EN>Enables you to remove buildings like blueprints. Also make blueprints cancelable event when resources are attached.</EN>
-    <DE>Ermöglicht es dir Gebäude wie Blaupausen zu löschen. Außerdem ermöglicht dieser Mod es, angefangene Blaupausen zu entfernen.</DE>
+    <DE>Ermöglicht das Entfernen von Gebäuden.</DE>
+    <EN>Makes it possible to remove all buildings.</EN>
   </Description>
-  <Version>0.0.1.2</Version>
+  <Version>0.0.2.4</Version>
 </Mod>

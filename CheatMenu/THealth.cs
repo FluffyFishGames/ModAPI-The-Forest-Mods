@@ -8,18 +8,16 @@ namespace CheatMenu
 {
     class THealth : TreeHealth
     {
-        public void CheatMenuCutDown()
+        protected override void Hit()
         {
-            TreeCutChunk[] chunks = this.transform.GetComponentsInChildren<TreeCutChunk>();
-            foreach (TreeCutChunk chunk in chunks)
-                Destroy(chunk.transform.parent.gameObject);
-            base.DoFallTree();
-
-        }
-
-        public override void DoSpawnCutTree()
-        {
-            base.DoSpawnCutTree();
+            if (CheatMenuComponent.InstantTree)
+            {
+                this.Explosion(100f);
+            }
+            else
+            {
+                base.Hit();
+            }
         }
     }
 }

@@ -57,8 +57,8 @@
       <HintPath>../../../modlib/TheForest/TheForest_data/Managed/UnityScript.Lang.dll</HintPath>
       <Private>False</Private>
     </Reference>
-<Reference Include="Accessibility">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/Accessibility.dll</HintPath>
+<Reference Include="AmplifyColor">
+      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/AmplifyColor.dll</HintPath>
       <Private>False</Private>
     </Reference>
 <Reference Include="AmplifyMotion">
@@ -77,60 +77,12 @@
       <HintPath>../../../modlib/TheForest/TheForest_data/Managed/Boo.Lang.dll</HintPath>
       <Private>False</Private>
     </Reference>
-<Reference Include="ES2">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/ES2.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-<Reference Include="ES2Dispose">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/ES2Dispose.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-<Reference Include="ES2IO">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/ES2IO.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-<Reference Include="ES2Settings">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/ES2Settings.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-<Reference Include="ES2Standalone">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/ES2Standalone.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-<Reference Include="KGFUtils.Settings">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/KGFUtils.Settings.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-<Reference Include="Mono.Data.Tds">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/Mono.Data.Tds.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
 <Reference Include="Mono.Posix">
       <HintPath>../../../modlib/TheForest/TheForest_data/Managed/Mono.Posix.dll</HintPath>
       <Private>False</Private>
     </Reference>
 <Reference Include="Mono.Security">
       <HintPath>../../../modlib/TheForest/TheForest_data/Managed/Mono.Security.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-<Reference Include="Mono.WebBrowser">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/Mono.WebBrowser.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-<Reference Include="MoodkieSecurity">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/MoodkieSecurity.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-<Reference Include="NAudio">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/NAudio.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-<Reference Include="NAudio.WindowsMediaFormat">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/NAudio.WindowsMediaFormat.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-<Reference Include="NSpeex">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/NSpeex.dll</HintPath>
       <Private>False</Private>
     </Reference>
 <Reference Include="mscorlib">
@@ -157,16 +109,16 @@
       <HintPath>../../../modlib/TheForest/TheForest_data/Managed/PlayMaker.dll</HintPath>
       <Private>False</Private>
     </Reference>
+<Reference Include="Rewired_Core">
+      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/Rewired_Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
 <Reference Include="SteamworksManaged">
       <HintPath>../../../modlib/TheForest/TheForest_data/Managed/SteamworksManaged.dll</HintPath>
       <Private>False</Private>
     </Reference>
 <Reference Include="System.Configuration">
       <HintPath>../../../modlib/TheForest/TheForest_data/Managed/System.Configuration.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-<Reference Include="System.Data">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/System.Data.dll</HintPath>
       <Private>False</Private>
     </Reference>
 <Reference Include="System.Core">
@@ -177,24 +129,8 @@
       <HintPath>../../../modlib/TheForest/TheForest_data/Managed/System.dll</HintPath>
       <Private>False</Private>
     </Reference>
-<Reference Include="System.Drawing">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/System.Drawing.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-<Reference Include="System.EnterpriseServices">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/System.EnterpriseServices.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
 <Reference Include="System.Security">
       <HintPath>../../../modlib/TheForest/TheForest_data/Managed/System.Security.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-<Reference Include="System.Transactions">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/System.Transactions.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-<Reference Include="System.Windows.Forms">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/System.Windows.Forms.dll</HintPath>
       <Private>False</Private>
     </Reference>
 <Reference Include="System.Xml">
@@ -205,8 +141,20 @@
       <HintPath>../../../modlib/TheForest/TheForest_data/Managed/UnityEngine.dll</HintPath>
       <Private>False</Private>
     </Reference>
+<Reference Include="UnityEngine.Analytics">
+      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/UnityEngine.Analytics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+<Reference Include="UnityEngine.Networking">
+      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/UnityEngine.Networking.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
 <Reference Include="UnityEngine.UI">
       <HintPath>../../../modlib/TheForest/TheForest_data/Managed/UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+<Reference Include="UnityScript.Lang">
+      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/UnityScript.Lang.dll</HintPath>
       <Private>False</Private>
     </Reference>
 <Reference Include="udpkit">
@@ -217,20 +165,15 @@
       <HintPath>../../../modlib/TheForest/TheForest_data/Managed/udpkit.common.dll</HintPath>
       <Private>False</Private>
     </Reference>
-<Reference Include="XInputDotNetPure">
-      <HintPath>../../../modlib/TheForest/TheForest_data/Managed/XInputDotNetPure.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
 
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CheatMenuComponent.cs"  />
+    <Compile Include="Atmosphere.cs"  />
+<Compile Include="CheatMenuComponent.cs"  />
 <Compile Include="CStructure.cs"  />
 <Compile Include="FPController.cs"  />
 <Compile Include="Stats.cs"  />
-<Compile Include="TCutChunk.cs"  />
 <Compile Include="THealth.cs"  />
-<Compile Include="TOffLeaves.cs"  />
 
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

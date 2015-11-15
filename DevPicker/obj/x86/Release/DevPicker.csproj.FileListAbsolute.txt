@@ -1,0 +1,5 @@
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\DevPicker\Mod\DevPicker.dll
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\DevPicker\Mod\DevPicker.pdb
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\DevPicker\obj\x86\Release\DevPicker.csprojResolveAssemblyReference.cache
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\DevPicker\obj\x86\Release\DevPicker.dll
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Release\projects\TheForest\DevPicker\obj\x86\Release\DevPicker.pdb
