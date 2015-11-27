@@ -1,5 +1,5 @@
 <Mod ID="DevPicker">
-  <Compatible>0.26d</Compatible>
+  <Compatible>0.28c</Compatible>
   <Button Standard="Tab" ID="ShowDevPicker">
     <Name>
       <EN>Show dev picker</EN>
@@ -14,5 +14,5 @@
   <Description>
     <EN>This mod is for mod developers which want to see which game object id they are looking at.</EN>
   </Description>
-  <Version>0.1.3.8</Version>
+  <Version>0.1.4</Version>
 </Mod>

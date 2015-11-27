@@ -1,0 +1,5 @@
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Debug\projects\TheForest\Map\Mod\Map.dll
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Debug\projects\TheForest\Map\Mod\Map.pdb
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Debug\projects\TheForest\Map\obj\x86\Release\Map.csprojResolveAssemblyReference.cache
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Debug\projects\TheForest\Map\obj\x86\Release\Map.dll
+E:\Users\hamsterphimo\Documents\ModAPI\GitHub\ModAPI\bin\Debug\projects\TheForest\Map\obj\x86\Release\Map.pdb

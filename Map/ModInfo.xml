@@ -1,0 +1,22 @@
+<Mod ID="Map">
+  <Compatible>0.28c</Compatible>
+  <Button Standard="M" ID="OpenMap">
+    <Name>
+      <EN>Open map</EN>
+      <DE>Karte öffnen</DE>
+    </Name>
+    <Description>
+      <EN></EN>
+      <DE></DE>
+    </Description>
+  </Button>
+  <Name>
+    <EN>Map</EN>
+    <DE>Karte</DE>
+  </Name>
+  <Description>
+    <EN>An ingame map</EN>
+    <DE>Eine Karte</DE>
+  </Description>
+  <Version>0.3</Version>
+</Mod>

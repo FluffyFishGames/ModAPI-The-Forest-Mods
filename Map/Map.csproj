@@ -7,8 +7,8 @@
     <ProjectGuid>{53821041-E269-4717-BAED-3C9C6836E83F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CheatMenu</RootNamespace>
-    <AssemblyName>CheatMenu</AssemblyName>
+    <RootNamespace>Map</RootNamespace>
+    <AssemblyName>Map</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -168,14 +168,9 @@
 
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Atmosphere.cs"  />
-<Compile Include="CheatMenuComponent.cs"  />
-<Compile Include="CStructure.cs"  />
-<Compile Include="FPController.cs"  />
-<Compile Include="NewEnemyHealth.cs"  />
-<Compile Include="NewWeatherSystem.cs"  />
-<Compile Include="Stats.cs"  />
-<Compile Include="THealth.cs"  />
+    <Compile Include="Downloader.cs"  />
+<Compile Include="IngameMap.cs"  />
+<Compile Include="Map.cs"  />
 
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

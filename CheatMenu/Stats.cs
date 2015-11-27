@@ -63,10 +63,11 @@ namespace CheatMenu
             if (CheatMenuComponent.GodMode)
             {
                 this.IsBloody = false;
-                this.Warm = true;
+                this.FireWarmth = true;
+                this.SunWarmth = true;
                 this.IsCold = false;
                 this.Health = 100f;
-                this.Armor = 100;
+                this.Armor = 400;
                 this.Fullness = 1f;
                 this.Stamina = 100f;
                 this.Energy = 100f;
@@ -75,6 +76,24 @@ namespace CheatMenu
                 this.Starvation = 0;
             }
             base.Update();
+        }
+
+        protected override void KillPlayer()
+        {
+            if (!CheatMenuComponent.GodMode)
+                base.KillPlayer();
+        }
+
+        public override void HitFood()
+        {
+            if (!CheatMenuComponent.GodMode)
+                base.HitFood();
+        }
+
+        public override void HitFoodDelayed(int damage)
+        {
+            if (!CheatMenuComponent.GodMode)
+                base.HitFoodDelayed(damage);
         }
     }
 }

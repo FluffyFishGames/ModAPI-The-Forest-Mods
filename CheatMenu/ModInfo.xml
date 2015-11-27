@@ -1,5 +1,5 @@
 <Mod ID="CheatMenu">
-  <Compatible>0.26d</Compatible>
+  <Compatible>0.28c</Compatible>
   <Button Standard="F1" ID="OpenMenu">
     <Name>
       <EN>Open cheat menu</EN>
@@ -30,6 +30,26 @@
       <DE>Wenn gedrückt, zeigt einen Radius an, indem Bäume gefällt werden. Wenn losgelassen, werden diese Bäume gefällt.</DE>
     </Description>
   </Button>
+  <Button Standard="F2" ID="FreezeTime">
+    <Name>
+      <EN>Freeze Time</EN>
+      <DE>Zeit einfrieren</DE>
+    </Name>
+    <Description>
+      <EN>Freezes the time.</EN>
+      <DE>Friert die Zeit ein</DE>
+    </Description>
+  </Button>
+  <Button Standard="F3" ID="FreeCam">
+    <Name>
+      <EN>Free Cam</EN>
+      <DE>Free Cam</DE>
+    </Name>
+    <Description>
+      <EN>Makes the cam fly free.</EN>
+      <DE>Lässt die Kamera frei fliegen.</DE>
+    </Description>
+  </Button>
   <Name>
     <EN>Cheatmenu</EN>
     <DE>Cheatmenü</DE>
@@ -38,5 +58,5 @@
     <EN>This mod grants you superpowers and some other nice features like instant build or instant tree cutting.</EN>
     <DE>Dieser Mod verleiht dir Superkräfte und einige weitere nützliche Möglichkeiten wie Sofortbau oder schnelles Bäume fällen.</DE>
   </Description>
-  <Version>0.1.2.21</Version>
+  <Version>0.1.4</Version>
 </Mod>

@@ -12,10 +12,11 @@ namespace CheatMenu
         {
             if (CheatMenuComponent.CaveLight > 0f && InACave)
             {
+                CaveAddLight1 = new Color(CheatMenuComponent.CaveLight, CheatMenuComponent.CaveLight, CheatMenuComponent.CaveLight);
+                CaveAddLight2 = new Color(CheatMenuComponent.CaveLight, CheatMenuComponent.CaveLight, CheatMenuComponent.CaveLight); ;
+                CaveAddLight1Intensity = CheatMenuComponent.CaveLight;
+                CaveAddLight2Intensity = CheatMenuComponent.CaveLight;
                 base.Update();
-                RenderSettings.ambientLight = new Color(CheatMenuComponent.CaveLight, CheatMenuComponent.CaveLight, CheatMenuComponent.CaveLight);
-                RenderSettings.ambientEquatorColor = new Color(CheatMenuComponent.CaveLight, CheatMenuComponent.CaveLight, CheatMenuComponent.CaveLight);
-                RenderSettings.ambientGroundColor = new Color(CheatMenuComponent.CaveLight, CheatMenuComponent.CaveLight, CheatMenuComponent.CaveLight);
             }
             else
             {
